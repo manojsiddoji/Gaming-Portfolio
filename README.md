@@ -1,7 +1,7 @@
 ## Version
 1. Version 1 [here](https://github.com/manojsiddoji/Gaming-Portfolio)
 2. Version 2 [Latest] - ReactJS & Tailwind CSS [here]()
-3. 
+  
 # Gaming-Portfolio
 
 This is a Gaming Portfolio website built using HTML5, CSS3, Javascript. The website showcases various video games available on the platform with their rating, review and gameplay coming under various types. 

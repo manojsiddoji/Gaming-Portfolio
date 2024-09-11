@@ -1,6 +1,6 @@
 ## Version
 1. Version 1 [here](https://github.com/manojsiddoji/Gaming-Portfolio)
-2. Version 2 [Latest] - ReactJS & Tailwind CSS [here]()
+2. Version 2 [Latest] - React JS & Tailwind CSS [here]()
 
 ## Tech 
 - React.js: A popular JavaScript library for building user interfaces.

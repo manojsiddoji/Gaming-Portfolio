@@ -1,8 +1,12 @@
 ## Version
 1. Version 1 [here](https://github.com/manojsiddoji/Gaming-Portfolio)
 2. Version 2 [Latest] - ReactJS & Tailwind CSS [here]()
+
+## Tech 
+- React.js: A popular JavaScript library for building user interfaces.
+- Tailwind CSS: A utility-first CSS framework for quickly styling the website.
   
-# Gaming-Portfolio
+# Gaming-Portfolio - V1
 
 This is a Gaming Portfolio website built using HTML5, CSS3, Javascript. The website showcases various video games available on the platform with their rating, review and gameplay coming under various types. 
 

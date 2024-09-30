@@ -16,7 +16,6 @@ This is a Gaming Portfolio website built using HTML5, CSS3, Javascript. The webs
 - Js library: jQuery
 
 # Snaps
-
 ![Screenshot (50)](https://github.com/manojsiddoji/Gaming-Portfolio/assets/140048527/b879fc49-b0c8-44aa-881c-cdbb6508e9f2)
 
 ![Screenshot (51)](https://github.com/manojsiddoji/Gaming-Portfolio/assets/140048527/fd806d26-f932-4854-88f0-96fbf16ac698)
@@ -29,3 +28,19 @@ This is a Gaming Portfolio website built using HTML5, CSS3, Javascript. The webs
 
 Login validation:
 ![Screenshot (56)](https://github.com/manojsiddoji/Gaming-Portfolio/assets/140048527/a4e6207c-c914-4a51-b9f5-7b0dc40226bc)
+---
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/manojsiddoji/Gaming-Portfolio.git
+2. Navigate to the project directory 
+   ```bash
+   cd Gaming-Portfolio
+3. Install dependencies (for Version 2)
+   ```bash
+   npm install
+4. Start the development server
+   ```bash
+   npm start
